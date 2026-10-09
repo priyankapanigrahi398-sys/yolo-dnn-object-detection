@@ -1,0 +1,4 @@
+# Install CPU PyTorch first:  pip install torch torchvision
+ultralytics>=8.3
+opencv-python>=4.8
+numpy
